@@ -1,4 +1,4 @@
-package daa.bfs;
+package daa.BFS;
 import java.util.List;
 import java.util.LinkedList;
 public class Vertex
