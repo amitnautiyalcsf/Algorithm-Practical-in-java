@@ -2,7 +2,7 @@ import java.util.LinkedList;
 import java.util.List;
 public class Main
 {
-	public static void main(String[] args) {
+public static void main(String[] args) {
 Vertex v1= new Vertex("1");
 Vertex v2= new Vertex("2");
 Vertex v3= new Vertex("3");
